@@ -1,0 +1,59 @@
+.heading{
+    width: 100%;
+    font-size: xx-large;
+    font-family:Metal Mania;
+    margin-top:-1px;
+    background-color: rgb(44, 44, 44);
+    color:aliceblue;
+}
+.heading:hover{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(224, 224, 224);
+}
+.one{
+    background-color: rgb(148, 148, 148);
+}
+h3{
+    background-color: aliceblue;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.one{
+    font-family: 'Preahvihear', sans-serif;
+    width: 90%;
+}
+.on{
+    margin-top:-215;
+}
+.to{
+    margin-top:-375;
+}
+.te{
+    margin-top:-410;
+}
+#nigga{
+    height: 400px;
+}
+#fugga{
+    width: 400px;
+}
+.fo{
+    margin-top:-370;
+}
+.fi{
+    margin-top:-265;
+}
+.copy_right_footer{
+    background-color: rgb(172, 170, 170);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Handjet', cursive;
+    font-size: large;
+     }
+     .winner{
+        background-color: khaki;
+     }
